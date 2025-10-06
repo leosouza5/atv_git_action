@@ -22,4 +22,4 @@ GET /clientes/:id → buscar por id
 
 PATCH /clientes/:id → atualizar cliente
 
-DELETE /clientes/:id → remover cliente
+DELETE /clientes/:id → remover clientes
